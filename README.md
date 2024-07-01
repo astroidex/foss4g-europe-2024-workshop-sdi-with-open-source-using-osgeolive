@@ -1,0 +1,1 @@
+# foss4g-europe-2024-workshop-sdi-with-open-source-using-osgeolive
